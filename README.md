@@ -3,4 +3,4 @@ For a python user, R looks a bit weird for me. However, R is super useful in Bio
 
 
 -------------
-R - a language that doesn't look like python ([R-2019](https://github.com/xihajun/R-tutorial))\
+*R - a language that doesn't look like python ([R-2019](https://github.com/xihajun/R-tutorial))*
